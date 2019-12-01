@@ -1,0 +1,3 @@
+{"_id":{"$oid":"5ddc65edd8bb2aab8b0c4ed2"},"firstName":"François","lastName":"de la Jousselinière","username":"fdlj","createdDate":{"$date":"2019-11-25T23:38:21.048Z"},"hash":"$2a$10$yIpVp9vZ8Z6HkfPIw3PWMeVd14ztFck5zYJXKMpig0yFofCVrDXhO","__v":0}
+{"_id":{"$oid":"5ddcfc25d8bb2aab8b0c4ed3"},"firstName":"Loïc","lastName":"Eustache","username":"leu","createdDate":{"$date":"2019-11-26T10:19:17.414Z"},"hash":"$2a$10$yZXVPNpUJP8CkNmuuSja5OajDXJrRYTrF6ptHx201BDJDHQ8eLhLK","__v":0}
+{"_id":{"$oid":"5ddd2e99d8bb2aab8b0c4ed4"},"firstName":"Arbiter","lastName":"Arbiter","username":"arbiter","createdDate":{"$date":"2019-11-26T13:54:33.049Z"},"hash":"$2a$10$/bFGqVRk/rRzkhymGwUPf..sLi.8IiqLgfryw.pWbqdzXDr/mw1hS","__v":0}
